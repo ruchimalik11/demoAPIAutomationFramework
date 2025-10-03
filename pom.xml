@@ -67,7 +67,7 @@
     <configuration>
         <suiteXmlFiles>
             <suiteXmlFile>
-                suite.xml
+                Suite.xml
             </suiteXmlFile>
         </suiteXmlFiles>
     </configuration>
